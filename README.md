@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshsuthar
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Full stack Devloping
+- 🌱 I’m currently learning Full stack Devlopment
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me My Linked-in :www.linkedin.com/in/priyanshsuthar
 
